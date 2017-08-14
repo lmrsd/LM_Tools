@@ -1,2 +1,2 @@
 # LM_Tools
-A bunch of tools,function and scrip that i a m using in production
+A bunch of 3dsmax tools,function and scrip that i'am using in production. 
